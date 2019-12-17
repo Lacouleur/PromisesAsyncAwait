@@ -47,7 +47,7 @@
 
 
 
-.dotBox {
+.dotsBox {
   display: flex;
   flex-direction: row;
   position: absolute;
@@ -57,7 +57,7 @@
   transform: translate(-50%, -50%);
 
   
-  &-dotBig {
+  &-dotsBig {
     height: 3rem;
     width: 3rem;
     background-color: #5C6366;
@@ -73,7 +73,7 @@
       }
   }
   
-  &-dot {
+  &-dots {
     height: 1.5rem;
     width: 1.5rem;
     background-color: #5C6366;
